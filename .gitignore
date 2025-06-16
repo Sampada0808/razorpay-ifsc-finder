@@ -1,0 +1,62 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+*.hmap
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# App Packaging
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+Carthage/Build/
+
+# Swift
+*.swp
+
+## Obj-C/Swift specific
+*.hmap
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Supabase (if using CLI and generating local project files)
+.supabase/
+supabase/migrations/
+supabase/.temp/
+
+# General
+*.orig
+*.tmp
+*.swp
+*~.nib

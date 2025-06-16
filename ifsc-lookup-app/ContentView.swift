@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  ifsc-lookup-app
-//
-//  Created by Sampada Shankar on 16/06/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
